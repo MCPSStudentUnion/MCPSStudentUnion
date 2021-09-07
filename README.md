@@ -1,1 +1,1 @@
-The website for the MCPS Student Union is accessible at mcps-su.netlify.app
+The website for the MCPS Student Union is accessible at https://mcps-su.netlify.app
